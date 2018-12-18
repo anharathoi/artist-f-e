@@ -27,4 +27,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
   ```
   $ npm start
   ```
-- go to http://localhost:3000/ to see the appå
+- go to http://localhost:3000/ to see the application.
