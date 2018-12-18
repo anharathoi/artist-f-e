@@ -10,7 +10,7 @@ class Artist extends Component {
     // console.log(artist)
     
     const albums = artist.albums.map(album => album)
-    console.log(albums)
+    // console.log(albums)
     // console.log(albums.map(album => album.tracks.map(track => track.title)))
   
     return (
